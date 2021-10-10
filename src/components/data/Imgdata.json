@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "ctaegory":"truck",
+        "img": "./images/pexels-kelly-lacy-4320464.jpg"
+    },
+    {
+        "id": 2,
+        "ctaegory":"Car",
+        "img": "./images/pexels-kelson-downes-1149137.jpg"
+    },
+    {
+        "id": 3,
+        "ctaegory":"Car",
+        "img": "./images/pexels-alexgtacar-1592384.jpg"
+    },
+    {
+        "id": 4,
+        "ctaegory":"bike",
+        "img": "./images/pexels-nishant-aneja-2393835.jpg"
+    },
+    {
+        "id": 5,
+        "ctaegory":"Car",
+        "img": "./images/pexels-pixabay-35967.jpg"
+    },
+    {
+        "id": 6,
+        "ctaegory":"Car",
+        "img": "./images/pexels-pixabay-358070.jpg"
+    },
+    {
+        "id": 7,
+        "ctaegory":"truck",
+        "img": "./images/pexels-quintin-gellar-2199293.jpg"
+    },
+    {
+        "id": 8,
+        "ctaegory":"bike",
+        "img": "./images/pexels-thgusstavo-santana-2607554.jpg"
+    },
+    {
+        "id": 9,
+        "ctaegory":"bike",
+        "img": "./images/pexels-valeriia-miller-3599586.jpg"
+    }
+]

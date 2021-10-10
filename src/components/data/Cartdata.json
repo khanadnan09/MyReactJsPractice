@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "img":"https://i01.appmifile.com/webfile/globalimg/POCOpic/M3pro-yellow.png",
+        "name":"Poco M3 PRO",
+        "price":"12500"
+    },
+    {
+        "id":"2",
+        "img":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000",
+        "name":"iphone-13-pro",
+        "price":"119900"
+    },
+    {
+        "id":"3",
+        "img":"https://brandzone.in/product_images/52066_large_file_REDMINote10ProMax_L.png",
+        "name":"Redmi_Note_10_Pro",
+        "price":"20000"
+    },
+    {
+        "id":"4",
+        "img":"https://i01.appmifile.com/webfile/globalimg/in/cms/E0F881D5-AAC5-6CC0-8CA3-A1CF1A8B1C62.jpg",
+        "name":"Redmi_Note_7",
+        "price":"7000"
+    }
+   
+]
